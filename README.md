@@ -2,6 +2,13 @@
 ##Disclaimer
 On this page are some useful tools for software development and hacking. Fell free to add some useful stuff to this list, to help new devs getting started. The usage of some tools may be prohibited by law, please check if you can use these tools BEFORE you use them.
 
+## Programming langues
+- The C Programming Language
+- [Cpp](https://en.cppreference.com/w/)
+- [Java](https://www.java.com)
+- [Python](https://www.python.org/)
+- [Julia](https://julialang.org/)
+
 ## IDEs
 - [Visual Studio](https://visualstudio.microsoft.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -95,3 +102,14 @@ On this page are some useful tools for software development and hacking. Fell fr
 ## Port and Network Scanners
 - [Nmap](https://nmap.org/) a port and service scanner
 - [Wireshark](https://www.wireshark.org/) a packet capturing programm for network analysis
+
+## SysAdmin
+- [FileZilla FTP-Server](https://filezilla-project.org/)
+- [FileZilla FTP-Client](https://filezilla-project.org/)
+- [WinSCP ssh file transfer for windows](https://winscp.net/eng/docs/start)
+- [Putty ssh shell](https://www.putty.org/)
+
+## others
+- [notepad++](https://notepad-plus-plus.org/)
+- [Winmerge](https://winmerge.org/?lang=en)
+- Filelocator
