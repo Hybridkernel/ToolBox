@@ -17,6 +17,14 @@ On this page are some useful tools for software development and hacking. Fell fr
 - [eclipse](https://www.eclipse.org/) for C/C++/Java
 - [Code-Blocks](https://www.codeblocks.org/) for C/C++
 
+## Operating Systems
+- [Windows](https://www.microsoft.com/en-us/windows/)
+- [Ubuntu](https://ubuntu.com/) linux with desktop
+- [Mint](https://linuxmint.com/) linux with desktop
+- [Debian](https://www.debian.org/) mostly used in servers
+- [Kali](https://www.kali.org/) os for cybersecurity
+- [Parrot](https://www.parrotsec.org/) os for cybersecurity
+
 ## Algoritms and datastructs
 - [the Algorithms](https://the-algorithms.com) a website with lots of algorithms
 
