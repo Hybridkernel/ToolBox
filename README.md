@@ -108,6 +108,7 @@ On this page are some useful tools for software development and hacking. Fell fr
 - [FileZilla FTP-Client](https://filezilla-project.org/)
 - [WinSCP ssh file transfer for windows](https://winscp.net/eng/docs/start)
 - [Putty ssh shell](https://www.putty.org/)
+- [Clonezilla for cloning a harddrive](https://clonezilla.org/)
 
 ## others
 - [notepad++](https://notepad-plus-plus.org/)
