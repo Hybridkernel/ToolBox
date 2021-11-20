@@ -49,8 +49,9 @@ On this page are some useful tools for software development and hacking. Fell fr
 - [Oracle](https://www.oracle.com/database/)
 - [Microsoft SQL](https://www.microsoft.com/sql-server)
 
-## RegEx
+## Tools for string or data transformation
 - [Regex101](https://regex101.com/) a online RegEx Editor 
+- [CyberChef](https://gchq.github.io/CyberChef/) a tool for doing all common data transformations(i.e. base64,xor,encryption,.....)
 
 ## Version control
 - [git](https://git-scm.com/) here is also a docu for git
@@ -59,7 +60,12 @@ On this page are some useful tools for software development and hacking. Fell fr
 
 ## OS docs
 - [Windows docs](https://docs.microsoft.com/en-us/windows/)
-- [bootlin linux section] (https://elixir.bootlin.com/linux/latest/source) a website for linux kernel references
+- [bootlin linux section](https://elixir.bootlin.com/linux/latest/source) a website for linux kernel references
+
+## Low level windows stuff
+- [Windows driver docs](https://docs.microsoft.com/en-us/windows-hardware/drivers/)
+- [Windows kernel driver docs](https://docs.microsoft.com/en-us/windows-hardware/drivers/kernel/)
+- [Windows driver debugging docs](https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/)
 
 ## Computing
 - [MPI](https://www.open-mpi.org/) a protcol for distributed computing used in super computers
@@ -75,22 +81,12 @@ On this page are some useful tools for software development and hacking. Fell fr
 - [Pearson](https://www.pearson.com/)
 - [Springer](https://www.springer.com)
 
-## Useful books
-- Design Patterns: Elements of Reusable Object-Oriented Software by  Gamma Erich, Helm Richard, Johnson Ralph and Vlissides John
-- Clean Code by Robert Martin
-- Modern Operating Systems by Andrew S Tanenbaum and Herbert Bos
-- Distributed Systems: Principles and Paradigms by Andrew S Tanenbaum and Maarten van Steen
-
-## Learning websites
-- [w3schools](https://www.w3schools.com/) a website for learning most programming languages 
-- [codewars](https://www.codewars.com/) coding challenges
-
 ## GNU tools
 - [GNU Radio](https://www.gnuradio.org/) a GUI/framework for Signal Porcessing (useful for SDR)
 - [GNU Octave](https://www.gnu.org/software/octave/index) a open source aternative to matlab
 
 ## Image processing
-- [OpenCV](https://opencv.org/) a framework
+- [OpenCV](https://opencv.org/) a framework for image processing
 
 ## Signal processing
 - [PyFDA](https://github.com/chipmuenk/pyfda) a digital filter designer written in python
@@ -98,14 +94,15 @@ On this page are some useful tools for software development and hacking. Fell fr
 ## BackUp Tools
 - [Imaging Software Acronis True Image](https://www.acronis.com/de-de/products/true-image/)
 
-## Reverse engineering
+## Debugging tools
 - [C# decompiler](https://www.jetbrains.com/decompiler/)
 - [Ghidra decompiler](https://ghidra-sre.org/)
-- [radare decompiler](https://rada.re/n/)
+- [radare2 decompiler](https://rada.re/n/)
 - Linux objdump 
 - Linux strace,ltrace
 - Linux strings
 - Linux gdb (debugger)
+- [virustotal](https://www.virustotal.com/gui/home/upload) get file information of an uploaded file
 
 ## Port and Network Scanners
 - [Nmap](https://nmap.org/) a port and service scanner
