@@ -60,6 +60,7 @@ On this page are some useful tools for software development and hacking. Fell fr
 
 ## OS docs
 - [Windows docs](https://docs.microsoft.com/en-us/windows/)
+- [Windows binary indexing](https://winbindex.m417z.com/)
 - [bootlin linux section](https://elixir.bootlin.com/linux/latest/source) a website for linux kernel references
 
 ## Low level windows stuff
