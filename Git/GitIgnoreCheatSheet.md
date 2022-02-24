@@ -17,3 +17,6 @@
 
 ## miscellaneous
 `# my comment ` - used for comments 
+
+## gitignore Generator
+[Generator](https://www.toptal.com/developers/gitignore)
