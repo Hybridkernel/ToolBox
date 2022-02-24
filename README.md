@@ -116,6 +116,9 @@ On this page are some useful tools for software development and hacking. Fell fr
 - [Putty ssh shell](https://www.putty.org/)
 - [Clonezilla for cloning a harddrive](https://clonezilla.org/)
 
+## Active Directory
+- [pingcastle](https://www.pingcastle.com/) a AD Security scanner
+
 ## others
 - [notepad++](https://notepad-plus-plus.org/)
 - [Winmerge](https://winmerge.org/?lang=en)
