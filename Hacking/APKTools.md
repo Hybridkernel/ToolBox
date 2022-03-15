@@ -10,5 +10,8 @@
 
 Install: `apt install apktool dex2jar jd-gui`
 
+Android debug bridge `apt install adb` for apk running
+
+
 
 
